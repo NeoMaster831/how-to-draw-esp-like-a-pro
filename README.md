@@ -12,5 +12,8 @@ super ez. Just go to the directory that you want to hack.
 There'll pre-made ESP class, read class information, write the code.
 **IT IS ALL FOR INTERNAL HACK, NO EXTERNAL!!**
 
+# 부가설명
+I accept pull-request for errors.
+
 # 알고리즘 추가내역
 > None
