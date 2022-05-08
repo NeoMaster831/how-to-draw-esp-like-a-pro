@@ -1,5 +1,5 @@
 # About this project...
-Founded by Wane. (Discord: Wane#1337)
+Founded by Wane.
 As you see, it shows how to draw esp like a pro lol.
 That's it! It'll be updated as well.
 
